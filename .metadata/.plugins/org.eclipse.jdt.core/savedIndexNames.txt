@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+D:\Estudo\Java Nelio\Enumeração e composição\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3404602411.index
+3623968220.index
+340851976.index
+2810346991.index
+1816607894.index
